@@ -15,3 +15,7 @@ __pycache__/
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+.ipynb_checkpoints/
